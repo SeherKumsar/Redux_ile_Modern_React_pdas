@@ -12,6 +12,10 @@ function App() {
         <div>
             <div>Personal Digital Assistans</div>
 
+            <img src="https://picsum.photos/200/300" />
+            {/* <img src={AlexaImage} />
+            <img src={SiriImage} /> */}
+
             <ProfileCard title="Alexa" handle="@alexa99"/>
             <ProfileCard title="Cortana" handle="@cortana32"/>
             <ProfileCard title="Siri" handle="@siri01"/>
